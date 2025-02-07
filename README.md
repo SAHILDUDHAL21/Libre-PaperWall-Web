@@ -1,7 +1,7 @@
 # Libre PaperWall Web
 
 <p align="center">
-  <img src="assets/app_icon.png" alt="Libre PaperWall Logo" width="200" style="border-radius: 30px;"/>
+  <img src="https://github.com/SAHILDUDHAL21/libre-PaperWall/blob/main/assets/app_icon.png" alt="Libre PaperWall Logo" width="200" style="border-radius: 30px;"/>
 </p>
 
 ## 🌐 View Live
