@@ -4,6 +4,9 @@
   <img src="assets/app_icon.png" alt="Libre PaperWall Logo" width="200" style="border-radius: 30px;"/>
 </p>
 
+## 🌐 View Live
+**[View Live Demo](https://sahildudhal21.github.io/Libre-PaperWall-Web/)**
+
 A feature-rich, open-source wallpaper web application built with Flutter Web. Libre PaperWall Web provides a beautiful and intuitive interface for discovering, downloading, and setting wallpapers while respecting user privacy and freedom.
 
 <p align="center">
